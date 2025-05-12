@@ -3,6 +3,8 @@
 This project is an interactive Power BI dashboard built using the **AdventureWorks** dataset. It provides insights into sales orders,
 including metrics like quantities, revenue, tax, and freight, while enabling users to explore the data through rich visual interactivity.
 
+![Sales Order Dashboard](Dashboard.png)
+
 ---
 
 ## 🔧 Features
